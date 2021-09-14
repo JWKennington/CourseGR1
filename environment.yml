@@ -8,6 +8,7 @@ dependencies:
   - astropy
   - plotly
   - numpy
+  - pandas
   - pip
   - pip:
       - pystein
