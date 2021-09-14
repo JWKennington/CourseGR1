@@ -1,0 +1,13 @@
+name: gr1-env
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - astropy
+  - plotly
+  - numpy
+  - pystein
+  - scipy
+  - sympy
