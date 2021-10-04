@@ -1,5 +1,3 @@
-name: gr1-env
-
 channels:
   - conda-forge
   - defaults
@@ -10,7 +8,7 @@ dependencies:
   - numpy
   - pandas
   - pip
-  - pip:
-      - pystein
   - scipy
   - sympy
+  - pip:
+    - pystein
